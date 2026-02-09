@@ -6,7 +6,7 @@ My first FPGA project using Verilog and AMD Vivado.
 Digilent Basys 3 (Artix-7)
 
 ## Description
-This project divides the onboard 100 MHz clock to blink LED0 at roughly 1 Hz.  
+This project divides the onboard 100 MHz clock to blink LED0 at a frequency f of roughly 1 Hz.  
 It serves as a simple “hello world” design to confirm the toolchain, board setup, and programming workflow.
 
 ## Tools
